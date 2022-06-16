@@ -1,5 +1,7 @@
 ![image](https://user-images.githubusercontent.com/96293508/170131107-2c8f8967-9143-4cb3-83b1-3b0b4862b9dc.png)
 
+### [My CodeWar Profile](https://www.codewars.com/users/0ussamaBernou)
+
 <!--
 **0ussamaBernou/0ussamaBernou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
