@@ -1,10 +1,14 @@
-![image](https://user-images.githubusercontent.com/96293508/170131107-2c8f8967-9143-4cb3-83b1-3b0b4862b9dc.png)
+<img src="https://user-images.githubusercontent.com/96293508/170131107-2c8f8967-9143-4cb3-83b1-3b0b4862b9dc.png" width="100%">
+
+<br>
+<div align='center'>
 
 ### [My CodeWar Profile](https://www.codewars.com/users/0ussamaBernou)
 
+</div>
+
 <!--
 **0ussamaBernou/0ussamaBernou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -15,4 +19,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
+
