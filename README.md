@@ -2,9 +2,11 @@
 
 <br>
 <div align='center'>
+<a href="https://www.codewars.com/users/0ussamaBernou" ><img src="https://www.codewars.com/users/0ussamaBernou/badges/large" ></a>
 
+<!--
 ### [My CodeWar Profile](https://www.codewars.com/users/0ussamaBernou)
-
+-->
 </div>
 
 <!--
