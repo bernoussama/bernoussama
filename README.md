@@ -62,6 +62,59 @@ Here are some ideas to get you started:
 </p>
 
 
+
+<br>
+<table>
+      <tr>
+        <td width="50%">
+          <h3 align="center">My Portfolio</h3>
+          <p align="center">
+             <a href="https://oussamabernou.me" target="_blank" ref="noreferrer"> <img src="https://user-images.githubusercontent.com/96293508/184632431-7b5ca002-7708-4a9f-b757-3a0812b6e283.gif" alt="project example"/> </a>
+		<a href="https://github.com/0ussamaBernou/my-portfolio" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"></a>
+		<a href="oussamabernou.me" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Live-grey?style=for-the-badge"></a>
+            <p align="center">
+		Visit my <a href="oussamabernou.me" target="_blank" ref="noreferrer">portfolio</a>
+            </p>
+          </p>
+        </td>
+	<td width="50%">
+          <h3 align="center">Cocktail Showcase</h3>
+          <p align="center">
+            <a href="https://cocktail-carousel.oussamabernou.me" target="_blank" ref="noreferrer"> <img src="https://user-images.githubusercontent.com/96293508/184634570-22ccdc66-8da2-47d3-98a1-4bd1898f78d1.gif" alt="project example"/> </a>
+		<a href="https://github.com/0ussamaBernou/thecocktaildb-showcase" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"></a>
+		<a href="https://cocktail-carousel.oussamabernou.me" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Live-grey?style=for-the-badge"></a>
+            <p align="center">
+             Discover a wide range of cocktails
+            </p>
+          </p>
+        </td>
+    </tr>
+    <tr>
+	<td width="50%">
+          <h3 align="center">Fylo - Landing Page</h3>
+          <p align="center">
+           <a href="https://fylo.oussamabernou.me" target="_blank" ref="noreferrer"> <img src="https://user-images.githubusercontent.com/96293508/184635895-4390566b-d28a-40ff-8b7e-ac817e3c9859.jpg" alt="project example"/> </a>
+		  <a href="https://github.com/0ussamaBernou/fylo-landing-page" target="_blank"><img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"></a>
+		<a href="https://fylo.oussamabernou.me" target="_blank"><img src="https://img.shields.io/badge/Live-grey?style=for-the-badge"></a>
+            <p align="center">
+             A software Product Landing Page
+            </p>
+          </p>
+        </td>
+	<td width="50%">
+          <h3 align="center">Source - Template</h3>
+          <p align="center">
+           <a href="https://source-layout.oussamebernou.me" target="_blank" ref="noreferrer"><img src="https://github.com/snowsneakers/pokemon-prices/blob/main/assets/pokeprices.gif?raw=true" alt="project example"/></a>
+		   <a href="https://github.com/0ussamaBernou/source-layout" target="_blank"><img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"></a>
+		<a href="https://source-layout.oussamebernou.me" target="_blank"><img src="https://img.shields.io/badge/Live-grey?style=for-the-badge"></a>
+            <p align="center">
+             A multi-purpose landing page template
+            </p>
+          </p>
+        </td>
+        </tr>
+</table>
+
 <br>
 <br>
 <br>
