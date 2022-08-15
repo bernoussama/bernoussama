@@ -2,19 +2,19 @@
 
 
 <div id="badges" align='center'>
-  <a href="oussamabernou.me/linkedin">
+  <a href="https://oussamabernou.me/linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="oussamabernou.me">
+  <a href="https://oussamabernou.me">
     <img src="https://img.shields.io/badge/Portfolio-white?style=for-the-badge&logo=react&logoColor=blue" alt="Portfolio Badge"/>
   </a>
-  <a href="oussamabernou.me/twitter">
+  <a href="https://oussamabernou.me/twitter">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-    <a href="oussamabernou.me/angellist">
+    <a href="https://oussamabernou.me/angellist">
     <img src="https://img.shields.io/badge/AngelList-black?style=for-the-badge&logo=angellist&logoColor=white" alt="Angellist Badge"/>
   </a>
-    <a href="oussamabernou.me/resume.html">
+    <a href="https://oussamabernou.me/resume.html">
     <img src="https://img.shields.io/badge/Resume-white?style=for-the-badge&logo=github&logoColor=black" alt="Twitter Badge"/>
   </a>
 </div>
