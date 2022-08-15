@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 		<a href="https://github.com/0ussamaBernou/my-portfolio" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"></a>
 		<a href="oussamabernou.me" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Live-grey?style=for-the-badge"></a>
             <p align="center">
-		Visit my <a href="oussamabernou.me" target="_blank" ref="noreferrer">portfolio</a>
+		Visit my <a href="https://oussamabernou.me" target="_blank" ref="noreferrer">portfolio</a>
             </p>
           </p>
         </td>
@@ -104,7 +104,7 @@ Here are some ideas to get you started:
 	<td width="50%">
           <h3 align="center">Source - Template</h3>
           <p align="center">
-           <a href="https://source-layout.oussamebernou.me" target="_blank" ref="noreferrer"><img src="https://github.com/snowsneakers/pokemon-prices/blob/main/assets/pokeprices.gif?raw=true" alt="project example"/></a>
+           <a href="https://source-layout.oussamebernou.me" target="_blank" ref="noreferrer"><img src="https://user-images.githubusercontent.com/96293508/184637939-20478115-e76d-4269-be37-68ab83f16a19.jpeg" alt="project example"/></a>
 		   <a href="https://github.com/0ussamaBernou/source-layout" target="_blank"><img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"></a>
 		<a href="https://source-layout.oussamebernou.me" target="_blank"><img src="https://img.shields.io/badge/Live-grey?style=for-the-badge"></a>
             <p align="center">
