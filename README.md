@@ -64,6 +64,11 @@ Here are some ideas to get you started:
 
 
 <br>
+
+<br>
+
+## Projects
+
 <table>
       <tr>
         <td width="50%">
@@ -115,7 +120,6 @@ Here are some ideas to get you started:
         </tr>
 </table>
 
-<br>
 <br>
 <br>
 
