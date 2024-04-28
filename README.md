@@ -70,7 +70,7 @@ Here are some ideas to get you started:
         <td width="50%">
           <h3 align="center">My Portfolio</h3>
           <p align="center">
-             <a href="https://oussamabernou.me" target="_blank" ref="noreferrer"> <img src="https://user-images.githubusercontent.com/96293508/184632431-7b5ca002-7708-4a9f-b757-3a0812b6e283.gif" alt="project example"/> </a>
+             <a href="https://bernoussama.com" target="_blank" ref="noreferrer"> <img src="https://github.com/0ussamaBernou/0ussamaBernou/assets/96293508/bf672fbd-d9c0-49ae-ad77-256baeebaf42" alt="My portfolio"/> </a>
 		<a href="https://github.com/0ussamaBernou/my-portfolio" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"></a>
 		<a href="oussamabernou.me" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Live-grey?style=for-the-badge"></a>
             <p align="center">
@@ -144,4 +144,3 @@ Here are some ideas to get you started:
 
 
 </div>
-
