@@ -11,7 +11,7 @@
   <a href="https://twitter.bernoussama.com">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-    <a href="https://angellist.bernousama.com">
+    <a href="https://angellist.bernoussama.com">
     <img src="https://img.shields.io/badge/AngelList-black?style=for-the-badge&logo=angellist&logoColor=white" alt="Angellist Badge"/>
   </a>
     <a href="https://resume.bernoussama.com">
