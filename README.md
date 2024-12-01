@@ -27,7 +27,7 @@
 
 
 <!--
-**0ussamaBernou/0ussamaBernou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**bernoussama/bernoussama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -70,8 +70,8 @@ Here are some ideas to get you started:
         <td width="50%">
           <h3 align="center">My Portfolio</h3>
           <p align="center">
-             <a href="https://bernoussama.com" target="_blank" ref="noreferrer"> <img src="https://github.com/0ussamaBernou/0ussamaBernou/assets/96293508/bf672fbd-d9c0-49ae-ad77-256baeebaf42" alt="My portfolio"/> </a>
-		<a href="https://github.com/0ussamaBernou/my-portfolio" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"></a>
+             <a href="https://bernoussama.com" target="_blank" ref="noreferrer"> <img src="https://github.com/bernoussama/bernoussama/assets/96293508/bf672fbd-d9c0-49ae-ad77-256baeebaf42" alt="My portfolio"/> </a>
+		<a href="https://github.com/bernoussama/my-portfolio" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"></a>
 		<a href="oussamabernou.me" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Live-grey?style=for-the-badge"></a>
             <p align="center">
 		Visit my <a href="https://oussamabernou.me" target="_blank" ref="noreferrer">portfolio</a>
@@ -82,7 +82,7 @@ Here are some ideas to get you started:
           <h3 align="center">Cocktail Showcase</h3>
           <p align="center">
             <a href="https://cocktail-carousel.oussamabernou.me" target="_blank" ref="noreferrer"> <img src="https://user-images.githubusercontent.com/96293508/184634570-22ccdc66-8da2-47d3-98a1-4bd1898f78d1.gif" alt="project example"/> </a>
-		<a href="https://github.com/0ussamaBernou/thecocktaildb-showcase" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"></a>
+		<a href="https://github.com/bernoussama/thecocktaildb-showcase" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"></a>
 		<a href="https://cocktail-carousel.oussamabernou.me" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Live-grey?style=for-the-badge"></a>
             <p align="center">
              Discover a wide range of cocktails
@@ -95,7 +95,7 @@ Here are some ideas to get you started:
           <h3 align="center">Fylo - Landing Page</h3>
           <p align="center">
            <a href="https://fylo.oussamabernou.me" target="_blank" ref="noreferrer"> <img src="https://user-images.githubusercontent.com/96293508/184635895-4390566b-d28a-40ff-8b7e-ac817e3c9859.jpg" alt="project example"/> </a>
-		  <a href="https://github.com/0ussamaBernou/fylo-landing-page" target="_blank"><img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"></a>
+		  <a href="https://github.com/bernoussama/fylo-landing-page" target="_blank"><img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"></a>
 		<a href="https://fylo.oussamabernou.me" target="_blank"><img src="https://img.shields.io/badge/Live-grey?style=for-the-badge"></a>
             <p align="center">
              A software Product Landing Page
@@ -106,7 +106,7 @@ Here are some ideas to get you started:
           <h3 align="center">Source - Template</h3>
           <p align="center">
            <a href="https://source-layout.oussamabernou.me" target="_blank" ref="noreferrer"><img src="https://user-images.githubusercontent.com/96293508/184637939-20478115-e76d-4269-be37-68ab83f16a19.jpeg" alt="project example"/></a>
-		   <a href="https://github.com/0ussamaBernou/source-layout" target="_blank"><img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"></a>
+		   <a href="https://github.com/bernoussama/source-layout" target="_blank"><img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"></a>
 		<a href="https://source-layout.oussamabernou.me" target="_blank"><img src="https://img.shields.io/badge/Live-grey?style=for-the-badge"></a>
             <p align="center">
              A multi-purpose landing page template
@@ -120,10 +120,10 @@ Here are some ideas to get you started:
 <br>
 
 <div align='center'>
-<a href="https://www.codewars.com/users/0ussamaBernou" ><img src="https://www.codewars.com/users/0ussamaBernou/badges/large" ></a>
+<a href="https://www.codewars.com/users/bernoussama" ><img src="https://www.codewars.com/users/bernoussama/badges/large" ></a>
 
 <!--
-### [My CodeWar Profile](https://www.codewars.com/users/0ussamaBernou)
+### [My CodeWar Profile](https://www.codewars.com/users/bernoussama)
 (https://git.io/streak-stats)
 -->
 </div>
@@ -133,12 +133,12 @@ Here are some ideas to get you started:
 <div align='center' width='50%'>
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=0ussamaBernou&theme=dark&background=000000)](https://github-readme-streak-stats.herokuapp.com?user=0ussamaBernou&theme=dark&background=000000)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bernoussama&theme=dark&background=000000)](https://github-readme-streak-stats.herokuapp.com?user=bernoussama&theme=dark&background=000000)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0ussamaBernou&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bernoussama&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![Most commit langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0ussamaBernou&theme=github_dark)
+![Most commit langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bernoussama&theme=github_dark)
 
 
 
