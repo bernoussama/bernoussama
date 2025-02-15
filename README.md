@@ -72,7 +72,7 @@ Here are some ideas to get you started:
           <p align="center">
              <a href="https://bernoussama.com" target="_blank" ref="noreferrer"> <img src="https://github.com/bernoussama/bernoussama/assets/96293508/bf672fbd-d9c0-49ae-ad77-256baeebaf42" alt="My portfolio"/> </a>
 		<a href="https://github.com/bernoussama/my-portfolio" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"></a>
-		<a href="oussamabernou.me" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Live-grey?style=for-the-badge"></a>
+		<a href="https://bernoussama.com" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Live-grey?style=for-the-badge"></a>
             <p align="center">
 		Visit my <a href="https://bernoussama.com" target="_blank" ref="noreferrer">portfolio</a>
             </p>
