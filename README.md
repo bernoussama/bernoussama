@@ -21,7 +21,7 @@
 
 <br>
 
-### A passionate Problem Solver, who chose Programming to help build impactful solutions through code.
+### A passionate Problem Solver, who chose Programming to build impactful, efficient, sustainable, and elegant solutions through software.
 
 <br>
 
