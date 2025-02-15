@@ -74,14 +74,14 @@ Here are some ideas to get you started:
 		<a href="https://github.com/bernoussama/my-portfolio" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"></a>
 		<a href="oussamabernou.me" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Live-grey?style=for-the-badge"></a>
             <p align="center">
-		Visit my <a href="https://oussamabernou.me" target="_blank" ref="noreferrer">portfolio</a>
+		Visit my <a href="https://bernoussama.com" target="_blank" ref="noreferrer">portfolio</a>
             </p>
           </p>
         </td>
 	<td width="50%">
           <h3 align="center">Yanc</h3>
           <p align="center">
-            <a href="https://cocktail-carousel.oussamabernou.me" target="_blank" ref="noreferrer"> <img src="https://github.com/user-attachments/assets/6a837956-74e5-4712-bad3-20b3c9b20301" alt="project example"/> </a>
+            <a href="https://nextflix.bernoussama.com" target="_blank" ref="noreferrer"> <img src="https://github.com/user-attachments/assets/6a837956-74e5-4712-bad3-20b3c9b20301" alt="project example"/> </a>
 		<a href="https://github.com/bernoussama/yanc" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"></a>
 		<a href="https://nextflix.bernoussama.com" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Live-grey?style=for-the-badge"></a>
             <p align="center">
