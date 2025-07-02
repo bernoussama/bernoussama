@@ -1,19 +1,16 @@
 
 
 <div id="badges" align='center'>
-  <a href="https://linkedin.bernoussama.com">
+  <a href="https://linkedin.com/in/oussama-bernou">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://bernoussama.com">
     <img src="https://img.shields.io/badge/Portfolio-white?style=for-the-badge&logo=react&logoColor=blue" alt="Portfolio Badge"/>
   </a>
-  <a href="https://twitter.bernoussama.com">
+  <a href="https://x.com/bernoussama">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-    <a href="https://angellist.bernoussama.com">
-    <img src="https://img.shields.io/badge/AngelList-black?style=for-the-badge&logo=angellist&logoColor=white" alt="Angellist Badge"/>
-  </a>
-    <a href="https://resume.bernoussama.com">
+  <a href="https://resume.bernoussama.com">
     <img src="https://img.shields.io/badge/Resume-white?style=for-the-badge&logo=github&logoColor=black" alt="Twitter Badge"/>
   </a>
 </div>
@@ -46,7 +43,7 @@ Here are some ideas to get you started:
 
 
 
-
+<!--
 <h3 align="left">:hammer_and_wrench: Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
  </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
@@ -55,11 +52,13 @@ Here are some ideas to get you started:
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="TypeScript" width="40" height="40"/>&nbsp;
-
+-->
 </p>
 
 
 <br>
+
+<!--
 
 ## Projects
 
@@ -116,19 +115,19 @@ Here are some ideas to get you started:
 
 <br>
 <br>
-
+-->
 
 
 <br>
 
 <div align='center' width='50%'>
 
+![Stats](https://github-readme-stats.vercel.app/api?username=bernoussama&show_icons=true&locale=en&layout=compact&hide_border=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bernoussama&layout=compact&theme=vision-friendly-dark)
 <!--
 ![Most commit langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bernoussama&theme=github_dark)
 -->
-![Stats](https://github-readme-stats.vercel.app/api?username=bernoussama&show_icons=true&locale=en&layout=compact&hide_border=true&theme=dark)
 
 
 </div>
