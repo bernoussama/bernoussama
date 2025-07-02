@@ -39,8 +39,6 @@ Here are some ideas to get you started:
 
 <br>
 
-<br>
-
 
 
 <!--
@@ -54,9 +52,6 @@ Here are some ideas to get you started:
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="TypeScript" width="40" height="40"/>&nbsp;
 -->
 </p>
-
-
-<br>
 
 <!--
 
@@ -118,16 +113,23 @@ Here are some ideas to get you started:
 -->
 
 
-<br>
-
-<div align='center' width='50%'>
+<table align="center" width="100%">
+      <tr align="center">
+        <td width="50%">
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=bernoussama&show_icons=true&locale=en&layout=compact&hide_border=true&theme=dark)
+</td>
+
+   <td width="50%">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bernoussama&layout=compact&theme=vision-friendly-dark)
+</td>
+
 <!--
 ![Most commit langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bernoussama&theme=github_dark)
 -->
+</tr>
+</table>
 
 
 </div>
