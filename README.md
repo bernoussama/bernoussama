@@ -113,8 +113,8 @@ Here are some ideas to get you started:
 -->
 
 
-<table align="center" width="100%">
-      <tr align="center">
+<table border="0" align="center" width="100%">
+      <tr align="center" border="0">
         <td width="50%">
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=bernoussama&show_icons=true&locale=en&layout=compact&hide_border=true&theme=dark)
@@ -124,6 +124,10 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bernoussama&layout=compact&theme=vision-friendly-dark)
 </td>
+
+
+
+	
 
 <!--
 ![Most commit langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bernoussama&theme=github_dark)
