@@ -124,14 +124,11 @@ Here are some ideas to get you started:
 <div align='center' width='50%'>
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bernoussama&theme=dark&background=000000)](https://github-readme-streak-stats.herokuapp.com?user=bernoussama&theme=dark&background=000000)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bernoussama&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bernoussama&layout=compact&theme=vision-friendly-dark)
+<!--
 ![Most commit langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bernoussama&theme=github_dark)
-
-
+-->
+![Stats](https://github-readme-stats.vercel.app/api?username=bernoussama&show_icons=true&locale=en&layout=compact&hide_border=true&theme=dark)
 
 
 </div>
