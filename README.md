@@ -1,4 +1,3 @@
-<img src="https://user-images.githubusercontent.com/96293508/170131107-2c8f8967-9143-4cb3-83b1-3b0b4862b9dc.png" width="100%">
 
 
 <div id="badges" align='center'>
@@ -36,11 +35,10 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
   -->
   
-- 🔭 I’m currently working on some Full-Stack Web Apps
+- 🔭 I’m currently working on some Full-Stack Apps
 
 <br>
 
@@ -119,14 +117,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-<div align='center'>
-<a href="https://www.codewars.com/users/bernoussama" ><img src="https://www.codewars.com/users/bernoussama/badges/large" ></a>
 
-<!--
-### [My CodeWar Profile](https://www.codewars.com/users/bernoussama)
-(https://git.io/streak-stats)
--->
-</div>
 
 <br>
 
