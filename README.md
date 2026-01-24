@@ -17,7 +17,7 @@
 
 <br>
 
-### A passionate Problem Solver, who chose Programming to build impactful, efficient, sustainable, and elegant solutions through software.
+### A curious Problem Solver, who chose Programming to solve real world problems through software.
 
 <br>
 
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
   -->
   
-- 🔭 I’m currently working on some Full-Stack Apps
+- 🔭 I’m currently working on some App
 
 <br>
 
