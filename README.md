@@ -1,6 +1,6 @@
 # Hey, I'm Oussama 👋
 
-Software engineer from Morocco building developer tools, AI infrastructure, and networked systems.
+Software developer from Morocco building developer tools, AI infrastructure, and networked systems.
 
 ## Currently building
 
