@@ -1,63 +1,26 @@
+# Hey, I'm Oussama 👋
 
+Software engineer from Morocco building developer tools, AI infrastructure, and networked systems.
 
-<div id="badges" align='center'>
-  <a href="https://linkedin.com/in/oussama-bernou">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://bernoussama.com">
-    <img src="https://img.shields.io/badge/Portfolio-white?style=for-the-badge&logo=react&logoColor=blue" alt="Portfolio Badge"/>
-  </a>
-  <a href="https://x.com/bernoussama">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="https://resume.bernoussama.com">
-    <img src="https://img.shields.io/badge/Resume-white?style=for-the-badge&logo=github&logoColor=black" alt="Twitter Badge"/>
-  </a>
-</div>
+## Currently building
 
-<br>
+- **[ClankerOverflow](https://github.com/bernoussama/clankeroverflow)** — persistent shared knowledge for coding agents through MCP and a CLI.
+- **[LazyShell](https://github.com/bernoussama/lazyshell)** — an AI-powered shell assistant with multiple providers, local models, evaluations, and benchmarking.
+- Experimenting with agent tooling, retrieval systems, and networked runtimes.
 
-### A curious Problem Solver, who chose Programming to solve real world problems through software.
+## Selected projects
 
-<br>
+- **[ClankerOverflow](https://github.com/bernoussama/clankeroverflow)** — shared debugging memory and knowledge retrieval for AI coding agents.
+- **[LazyShell](https://github.com/bernoussama/lazyshell)** — system-aware AI shell assistant with evaluation and benchmarking workflows.
+- **[TRusTun](https://github.com/bernoussama/trustun)** — user-space VPN in Rust with encrypted IP-over-UDP tunnels.
+- **[Mercury](https://github.com/bernoussama/mercury)** — authoritative and recursive DNS server written in Go.
+- **[Server Manager](https://github.com/bernoussama/server-manager)** — web control plane for DNS, DHCP, and HTTP services on Linux servers.
+- **[Diffsee](https://github.com/bernoussama/diffsee)** — local browser UI for reviewing Git diffs.
 
+## Interests
 
-<!--
-**bernoussama/bernoussama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
+Go · Rust · TypeScript · Linux · Networking · Developer Tools · AI Agents
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
-  -->
-  
-- 🔭 I’m currently working on some App
+Always happy to meet people building developer tools, AI agents, and systems software.
 
-<br>
-
-
-<table border="0" align="center" width="100%">
-      <tr align="center" border="0">
-        <td width="50%">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=bernoussama&show_icons=true&locale=en&layout=compact&hide_border=true&theme=dark)
-
-
-</td>
-
-   <td width="50%">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bernoussama&layout=compact&theme=vision-friendly-dark)
-
-</td>
-
-
-</tr>
-</table>
-
-
-</div>
+[Website](https://bernoussama.com) · [LinkedIn](https://linkedin.com/in/oussama-bernou) · [Résumé](https://resume.bernoussama.com)
