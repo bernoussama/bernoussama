@@ -23,4 +23,4 @@ Go · Rust · TypeScript · Linux · Networking · Developer Tools · AI Agents
 
 Always happy to meet people building developer tools, AI agents, and systems software.
 
-[Website](https://bernoussama.com) · [LinkedIn](https://linkedin.com/in/oussama-bernou) · [Résumé](https://resume.bernoussama.com)
+[Website](https://bernoussama.com) · [LinkedIn](https://linkedin.com/in/oussama-bernou)
